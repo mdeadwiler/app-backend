@@ -1,0 +1,22 @@
+{
+  "name": "app-backend",
+  "version": "1.0.0",
+  "description": "student project, managing student records ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeadwiler/app-backend.git"
+  },
+  "author": "Marquise Deadwiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeadwiler/app-backend/issues"
+  },
+  "homepage": "https://github.com/mdeadwiler/app-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

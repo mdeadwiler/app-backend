@@ -1,0 +1,1 @@
+// This is a project to manage student records. You can add, delete, and replace students throughout this application. 
